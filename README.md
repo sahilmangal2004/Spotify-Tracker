@@ -3,7 +3,8 @@
 Welcome to the **Spotify Daily Track Report Dashboard**!  
 This project combines **Spotify's API**, **ChatGPT**, **Python**, **Power BI tools (Bravo & Denev)**, and **HTML** to build dynamic visual dashboards that showcase trending Spotify tracks and audio analytics.
 
-![Sample Dashboard](visuals/dashboards_exported/sample_dashboard.png)
+![Sample Dashboard](https://github.com/sahilmangal2004/Spotify-Tracker/blob/main/2.png)
+![Sample Dashboard](https://github.com/sahilmangal2004/Spotify-Tracker/blob/main/1st.png)
 *Example Power BI dashboard exported as an image.*
 
 ---
